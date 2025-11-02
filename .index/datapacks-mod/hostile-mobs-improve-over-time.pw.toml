@@ -1,0 +1,16 @@
+filename = 'hostile-mobs-improve-over-time-1.11.3.jar'
+name = 'Hostile Mobs Improve Over Time'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b8d73ac4fc881465fb0b497c1dcc1ff51c109345ec2da6d42ceffde9837fc24654a94e11530a63b0349e55dac4f894cd24fc9bd67030b7c32411a3966cdac258'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ku4JD9TH/versions/P2wzxJRL/hostile-mobs-improve-over-time-1.11.3.jar'
+
+[update.modrinth]
+mod-id = 'ku4JD9TH'
+version = 'P2wzxJRL'

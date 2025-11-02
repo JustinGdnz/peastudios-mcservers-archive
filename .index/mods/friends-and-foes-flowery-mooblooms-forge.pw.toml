@@ -1,0 +1,16 @@
+filename = 'flowerymooblooms-neoforge-3.0.2+mc1.21.8.jar'
+name = 'Friends&Foes - Flowery Mooblooms (Forge/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0798dcfe5d6a52296271be9abf1c8d22d947a60d90bbcb2506009d42822f6a55fc6d103fef8ddce9c1f37652324b4915d71b9923b2a1b9bab99d446c36adb6c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wYtDgIUZ/versions/ywjkrrtU/flowerymooblooms-neoforge-3.0.2%2Bmc1.21.8.jar'
+
+[update.modrinth]
+mod-id = 'wYtDgIUZ'
+version = 'ywjkrrtU'

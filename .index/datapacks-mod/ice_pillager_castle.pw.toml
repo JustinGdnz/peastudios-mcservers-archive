@@ -1,0 +1,16 @@
+filename = 'ice_pillager_castle-3.9.jar'
+name = 'Ice Pillager Castle'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '560e5f2c4004479275a1bcb37361419b980bdc0bdd9624582ca51f317aa0d43d05fe086a5fa46224fc9ada799804b40d1609e04371e245558aa712ccd5d5342b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j63UGQG7/versions/OICgbjnn/ice_pillager_castle-3.9.jar'
+
+[update.modrinth]
+mod-id = 'j63UGQG7'
+version = 'OICgbjnn'

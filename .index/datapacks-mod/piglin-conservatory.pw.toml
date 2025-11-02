@@ -1,0 +1,16 @@
+filename = 'piglin-conservatory-2.3.jar'
+name = 'Piglin Conservatory v2.0'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4f87a5de6ca14908892a1860a9db8ce44b0c73b53aab7c22bd6b00cea123e087deec6a0c18affb481409d03e7d2804fdf3a17b64413071e0cddc3a9dd7a51a68'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5I2ZMGTs/versions/JvyP0BeY/piglin-conservatory-2.3.jar'
+
+[update.modrinth]
+mod-id = '5I2ZMGTs'
+version = 'JvyP0BeY'

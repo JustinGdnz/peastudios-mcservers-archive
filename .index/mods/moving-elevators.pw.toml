@@ -1,0 +1,16 @@
+filename = 'movingelevators-1.4.11-neoforge-mc1.21.6.jar'
+name = 'Moving Elevators'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '50f7ffa8538636e86347fdc75597f3ea5ab66e790f0fda78e60931896242dacd1786f9a10c3d2ae34d342c056898b192fba11a1ef41c4c9d8cb6866549a839d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9KZOe6HD/versions/eMb8l2ms/movingelevators-1.4.11-neoforge-mc1.21.6.jar'
+
+[update.modrinth]
+mod-id = '9KZOe6HD'
+version = 'eMb8l2ms'

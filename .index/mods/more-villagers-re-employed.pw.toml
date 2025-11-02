@@ -1,0 +1,40 @@
+filename = 'morevillagers-re-1.21.5-x-neoforge-5.1.3.jar'
+name = 'More Villagers: Re-employed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21.10',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6 Pre-Release 1',
+    '1.21.6 Pre-Release 2',
+    '1.21.6 Pre-Release 3',
+    '1.21.6 Pre-Release 4',
+    '1.21.6 rc1',
+    '1.21.7',
+    '1.21.7 rc1',
+    '1.21.7 rc2',
+    '1.21.8',
+    '1.21.9',
+    '25w14craftmine',
+    '25w15a',
+    '25w16a',
+    '25w17a',
+    '25w18a',
+    '25w19a',
+    '25w20a',
+    '25w21a',
+    '25w41a',
+    '25w42a'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0b3882c8158d88ce957818afb1f9492462d89e1373aee5df7792b843c82b405eb2a67dc3cfe9337939fe4553148267094a227cadd132a9803b49ab94e6505486'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1fOqTPRO/versions/39IIFaK6/morevillagers-re-1.21.5-x-neoforge-5.1.3.jar'
+
+[update.modrinth]
+mod-id = '1fOqTPRO'
+version = '39IIFaK6'

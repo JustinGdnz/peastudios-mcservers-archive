@@ -1,0 +1,16 @@
+filename = 'tool-trims-packaged-v2.3.4a.jar'
+name = 'Tool Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '99220af42b922eb8ae3a75a9b4b71e029869fea62c3e5c6329dfd4d1fd2dd0ad546409ac08fc4ed8cecca78281ffb9ef87f6fa2a920e59ea094ce312b43b5f5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uXeEiQk1/versions/Wq3mGQGU/tool-trims-packaged-v2.3.4a.jar'
+
+[update.modrinth]
+mod-id = 'uXeEiQk1'
+version = 'Wq3mGQGU'

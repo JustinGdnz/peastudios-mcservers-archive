@@ -1,0 +1,16 @@
+filename = 'ResourcefulLib-neoforge-1.21.6-3.6.0.jar'
+name = 'Resourceful Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b20c4376d416b82747d9741c53a53606e3e388ab3cc893c5ebeb72e07309df8f9ab0817d9b7756df443a4c2a84ced29761978713620b6c4b59f3babdd9ab419d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G1hIVOrD/versions/jkUKhAvC/ResourcefulLib-neoforge-1.21.6-3.6.0.jar'
+
+[update.modrinth]
+mod-id = 'G1hIVOrD'
+version = 'jkUKhAvC'

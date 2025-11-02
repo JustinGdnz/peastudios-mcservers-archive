@@ -1,0 +1,16 @@
+filename = 'brutalnightmarecci-1.0.0.jar'
+name = 'Brutal Nightmare Config Integration'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f18f1b684abf34b56bf7775483e89e8ba38496a9d376debbf196797b86eb789ccac1373c3bd671d3222289d9a1190936ecf95beb95e62a3a12f9ead17be12214'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tQO8Q6Lf/versions/PtGouXvt/brutalnightmarecci-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'tQO8Q6Lf'
+version = 'PtGouXvt'

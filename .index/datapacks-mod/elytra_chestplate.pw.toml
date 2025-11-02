@@ -1,0 +1,16 @@
+filename = 'elytra_chestplate-2.5+mod1.21.4-1.21.7.jar'
+name = 'Elytra Chestplate'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfb6167c817f3b6ef579d5ab122f9b1ef3caa3e03c19ea4ec357a0300aaf6deb42dd9baaef8f0875010159039d7332c742629dcc9b3cbcd70a129d056488ba76'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Luk2wi3b/versions/XBlc5NYX/elytra_chestplate-2.5%2Bmod1.21.4-1.21.7.jar'
+
+[update.modrinth]
+mod-id = 'Luk2wi3b'
+version = 'XBlc5NYX'

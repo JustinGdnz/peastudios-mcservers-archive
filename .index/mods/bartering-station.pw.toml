@@ -1,0 +1,16 @@
+filename = 'BarteringStation-v21.7.0-1.21.7-NeoForge.jar'
+name = 'Bartering Station'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '135e84b367ecd736e616ece76d48214d2e6c0572639f1ea399256cc2dc06a719f68c72050655a03e5542fd9920b4fa99bdb1fd3b23191786597acbc630637cbb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EOig9U0j/versions/66PsFD3a/BarteringStation-v21.7.0-1.21.7-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'EOig9U0j'
+version = '66PsFD3a'

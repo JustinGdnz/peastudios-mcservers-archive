@@ -1,0 +1,16 @@
+filename = 'ancient-artifacts-2-2.5.3a.jar'
+name = 'Ancient Artifacts 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd869642c66135f8c91aae1353a433319e44443ef3531a60385e718bd62c47fd07eaf5bab2e251978010eadf3d26e9c37bb3eccff982ae0693fa44c69a714858b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RO3LwIqV/versions/8ycIWIdx/ancient-artifacts-2-2.5.3a.jar'
+
+[update.modrinth]
+mod-id = 'RO3LwIqV'
+version = '8ycIWIdx'

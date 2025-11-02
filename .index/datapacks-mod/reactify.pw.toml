@@ -1,0 +1,16 @@
+filename = 'reactify-1.0.b1_MOD.jar'
+name = 'Reactify'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '883441ed573eec612bf32db5abaad1e613438d2eff4dad76ff6560c2667820abcd8fd44b866ecb1118436dc936957be8bd861ef67c18f91ddabd3757861134a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rcPTL0X0/versions/lo6RIpQt/reactify-1.0.b1_MOD.jar'
+
+[update.modrinth]
+mod-id = 'rcPTL0X0'
+version = 'lo6RIpQt'

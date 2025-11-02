@@ -1,0 +1,16 @@
+filename = 'dungeons-and-taverns-ancient-city-overhaul-v3.1.jar'
+name = 'Dungeons and Taverns Ancient City Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f3bd1ac75b69c77270d84a9cd88bc7048bb0da58fbd9a3ad6023ecfdc9bcfcfd587907bfede5dbd184c9fa1fd0a5a9c45d6138c412b669c9cb56c934656a5499'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DNuNq5bb/versions/VLVXnWy4/dungeons-and-taverns-ancient-city-overhaul-v3.1.jar'
+
+[update.modrinth]
+mod-id = 'DNuNq5bb'
+version = 'VLVXnWy4'

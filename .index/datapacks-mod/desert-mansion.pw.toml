@@ -1,0 +1,16 @@
+filename = 'desert-mansion-2.9.jar'
+name = 'Desert Pillager Mansion'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '75fe6593f764957b104760adf9c4997d5db7053ccae2e7f8fbbbb45ee5e6a4936893917d800cbb5322e1d819a75abb6ee33be0c2746f624e91e673589d6eb507'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dUS7kX7b/versions/fnbLoIV6/desert-mansion-2.9.jar'
+
+[update.modrinth]
+mod-id = 'dUS7kX7b'
+version = 'fnbLoIV6'

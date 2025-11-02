@@ -1,0 +1,16 @@
+filename = 'SkeletonAIFix-v21.7.1-1.21.7-NeoForge.jar'
+name = 'Skeleton AI Fix'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '40e53ee4d6022393df385ed7bd0b89a4dcddb853d0d88eb9b343af2818585479ed17a3ac0a3d6c59e804e0a8679cc760edb0b971c390aa583da2a9b8dd85f2bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jn24bUJo/versions/kAKjdlma/SkeletonAIFix-v21.7.1-1.21.7-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'jn24bUJo'
+version = 'kAKjdlma'

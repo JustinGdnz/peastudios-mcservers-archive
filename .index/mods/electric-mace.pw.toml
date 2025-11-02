@@ -1,0 +1,16 @@
+filename = 'ElectricMace-neoforge-1.8.1.jar'
+name = 'Electric Mace'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78cb8328f9aa9054dc46758bba518088693987220a1137b18b7249559b53c38be0ee6a5f651c8f8ff79457017e4259197959048def5aae3918d68652823b6b08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9ksojQLy/versions/GLw66YYy/ElectricMace-neoforge-1.8.1.jar'
+
+[update.modrinth]
+mod-id = '9ksojQLy'
+version = 'GLw66YYy'

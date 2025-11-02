@@ -1,0 +1,16 @@
+filename = '[1.21.5+]witherswrath-1.14.2.jar'
+name = "Wither's Wrath"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '935b96a71a2023f10c9ccbc64c609736d617e017347a00259d6446268eec813c4844bd6a921b89ef40bd50de6df2e7a42cfc6aee5fd855eba3f5a04b74976b14'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qqIrLnDt/versions/Ht4cuH3i/%5B1.21.5%2B%5Dwitherswrath-1.14.2.jar'
+
+[update.modrinth]
+mod-id = 'qqIrLnDt'
+version = 'Ht4cuH3i'

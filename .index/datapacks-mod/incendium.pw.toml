@@ -1,0 +1,16 @@
+filename = 'Incendium_1.21.x_v5.4.9.jar'
+name = 'Incendium'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '068b07eb1eee0934bae443036578d4060f54a624f22f2aceb0a953b37288e0a3e676a0d721d25151e949e506ee7d0481c11f64953fe3159342f2446ea984859c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZVzW5oNS/versions/PovCtpuw/Incendium_1.21.x_v5.4.9.jar'
+
+[update.modrinth]
+mod-id = 'ZVzW5oNS'
+version = 'PovCtpuw'

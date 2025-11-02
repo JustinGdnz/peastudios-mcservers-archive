@@ -1,0 +1,16 @@
+filename = 'enchantwithmob-1.21.7-25.0.2.jar'
+name = 'EnchantWithMob'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c91fd884605bd0c839a4787e3d1f5f2e1853bef3fd2568b94301ebcb090060623e686a5a7d2891f7dee0ec6a3d3e9697eecb950d92c79df10b62b799b0c390d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SwDIbBHh/versions/d0Nvh4MP/enchantwithmob-1.21.7-25.0.2.jar'
+
+[update.modrinth]
+mod-id = 'SwDIbBHh'
+version = 'd0Nvh4MP'

@@ -1,0 +1,16 @@
+filename = 'biome-strongholds-1.1.2.jar'
+name = 'Biome Strongholds'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd70c72585a772d85ee3c634a4cad5ced417250514badbba0492334e51c5057475c6612f7c0827a9d66f25efa7a8b0fa406f3bc18d030cb1e70d3e720dbe373a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HEKh9dai/versions/Gyk3kwCr/biome-strongholds-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'HEKh9dai'
+version = 'Gyk3kwCr'

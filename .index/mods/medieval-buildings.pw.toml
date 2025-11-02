@@ -1,0 +1,16 @@
+filename = 'medieval_buildings-1.21.1-1.1.2-neoforge.jar'
+name = 'Medieval Buildings'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '196b5e12d550f43c75877e80b2c3d71e94e355c1fdc1c0cbb246934abcf0aee704d013297b6b5589ce588c5b573426ebbcbe519a20456e9a4abad982757d2312'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sc9lpPiU/versions/oKjLUCOD/medieval_buildings-1.21.1-1.1.2-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'sc9lpPiU'
+version = 'oKjLUCOD'

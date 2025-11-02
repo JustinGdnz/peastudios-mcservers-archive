@@ -1,0 +1,16 @@
+filename = 'naturallychargedcreepers-1.21.7-3.6.jar'
+name = 'Naturally Charged Creepers'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e51ce4d81b9d96ad0065cd005abfd7899a168ffe2eba9c645d1df9995b74b08f2a81249522542eabf9179bb9772cbf88d3454af7851c844505b93cdae8052d43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j5LquiGA/versions/vzGjOgjK/naturallychargedcreepers-1.21.7-3.6.jar'
+
+[update.modrinth]
+mod-id = 'j5LquiGA'
+version = 'vzGjOgjK'

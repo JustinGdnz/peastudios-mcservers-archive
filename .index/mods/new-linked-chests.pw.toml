@@ -1,0 +1,16 @@
+filename = 'LinkedChests-v21.7.0-1.21.7-NeoForge.jar'
+name = 'Linked Chests'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '33e3a26d1713ef280560fd91728a8d8ba5c287105ac1db2df5de000a6cd1be1708e71d60f0fa0cd5b12a8a8ab3552389fd466e4f1a3bce266ada5346c6992c69'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Mr2x2AUf/versions/b0eZCqr1/LinkedChests-v21.7.0-1.21.7-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'Mr2x2AUf'
+version = 'b0eZCqr1'

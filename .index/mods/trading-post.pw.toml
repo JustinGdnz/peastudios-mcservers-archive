@@ -1,0 +1,16 @@
+filename = 'TradingPost-v21.7.0-1.21.7-NeoForge.jar'
+name = 'Trading Post'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8798dfb795638f0927aeafa1af499c50b08fe630377431a528226f053878957f27fe4a86684306503de3360e0a5ace6ccae436555d1c0167ea78e44aa15455bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8pcjMDgj/versions/34H9gdqs/TradingPost-v21.7.0-1.21.7-NeoForge.jar'
+
+[update.modrinth]
+mod-id = '8pcjMDgj'
+version = '34H9gdqs'

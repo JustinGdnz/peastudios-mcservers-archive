@@ -1,0 +1,16 @@
+filename = 'hunters_return-1.21.7-24.0.3.jar'
+name = "Hunter's Return"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f54dae48f48a8bf11b3c9825f818c8804e815c5f7efb481343b2c185ca8507d188b10624bc97b359dfde2519d8c67b28e8e4029103a80816a4b5093ec634a08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yt6gmdxW/versions/m9jOcVQf/hunters_return-1.21.7-24.0.3.jar'
+
+[update.modrinth]
+mod-id = 'Yt6gmdxW'
+version = 'm9jOcVQf'

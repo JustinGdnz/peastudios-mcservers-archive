@@ -1,0 +1,16 @@
+filename = 'just-hammers-neoforge-21.8.0.jar'
+name = 'Just Hammers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b59513ee55111b11b6677bbcb3581b62c6f8d2792fcf7dd5af88da182c8ec539da896419520388c417a17437ce0b1b648a9fe4b1cef72f711a4b973eeb085619'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/edU0NbZZ/versions/iUHdnyBc/just-hammers-neoforge-21.8.0.jar'
+
+[update.modrinth]
+mod-id = 'edU0NbZZ'
+version = 'iUHdnyBc'

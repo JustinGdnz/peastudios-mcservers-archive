@@ -1,0 +1,16 @@
+filename = 'yet_another_config_lib_v3-3.7.1+1.21.6-neoforge.jar'
+name = 'YetAnotherConfigLib (YACL)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5bcd79b933fb4bc503c1c66c07538fad671129517a7cc0ad6b2de0cadef8ec1e3a2f9894e411dfebdd0a07c10a4cd4a4e67eda126eaaa3624d99f0f43e8bdc54'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1eAoo2KR/versions/DKPJinOD/yet_another_config_lib_v3-3.7.1%2B1.21.6-neoforge.jar'
+
+[update.modrinth]
+mod-id = '1eAoo2KR'
+version = 'DKPJinOD'

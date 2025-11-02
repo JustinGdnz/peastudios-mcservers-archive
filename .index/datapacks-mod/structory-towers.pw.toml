@@ -1,0 +1,16 @@
+filename = 'Structory_Towers_1.21.x_v1.0.14.jar'
+name = 'Structory: Towers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.10', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a1e728223a11c7d6808402f69a298ab1f1bf59c0aa3093424702fdc5635181a30c18f9fcc6c2a315830e12246f39011abe0eb5b014c37f64d33d0681b236abc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j3FONRYr/versions/4QAbnyHv/Structory_Towers_1.21.x_v1.0.14.jar'
+
+[update.modrinth]
+mod-id = 'j3FONRYr'
+version = '4QAbnyHv'

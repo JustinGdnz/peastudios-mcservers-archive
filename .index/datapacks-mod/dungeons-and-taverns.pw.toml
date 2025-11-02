@@ -1,0 +1,16 @@
+filename = 'dungeons-and-taverns-v4.7.3.jar'
+name = 'Dungeons and Taverns'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar'
+
+[update.modrinth]
+mod-id = 'tpehi7ww'
+version = 'tEfxMsly'

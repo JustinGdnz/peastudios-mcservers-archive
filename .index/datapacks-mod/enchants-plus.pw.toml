@@ -1,0 +1,16 @@
+filename = 'enchants-plus-1.6.jar'
+name = 'Enchants Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '9d18012cbae6cbe38704e4765456053dc583da070796b5895997285f2386fe21387cd55593e04d63b39a93e2961c393092b88131b255abf6315fc3bafb1743a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N72bKhby/versions/yVo33Fix/enchants-plus-1.6.jar'
+
+[update.modrinth]
+mod-id = 'N72bKhby'
+version = 'yVo33Fix'

@@ -1,0 +1,16 @@
+filename = 'amethyst-expansion-dp-1.6.jar'
+name = 'Amethyst expansion'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9ca4bf50e67901b1f92ef363ce0fbe8e3a7f2a22b9fc294c3caaa61218d37deec157ac2f42c26b412283c5cfcd1cf6304e7c1f71da583105a648b3ec9fdde0f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zVG2op5g/versions/dZ5tkw2l/amethyst-expansion-dp-1.6.jar'
+
+[update.modrinth]
+mod-id = 'zVG2op5g'
+version = 'dZ5tkw2l'

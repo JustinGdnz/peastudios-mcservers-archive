@@ -1,0 +1,16 @@
+filename = 'EternalNether-v21.7.0-1.21.7-NeoForge.jar'
+name = 'Eternal Nether'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ce17368aa7701e21a2b91c60b9ea636eb9c84d185a3f136a0081c61e883aeb0f0a664773119be44101d664abdbc4723450e7163c08c04bb4fc5dc6859d7590e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s6R4jmL8/versions/R04NJJVN/EternalNether-v21.7.0-1.21.7-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 's6R4jmL8'
+version = 'R04NJJVN'

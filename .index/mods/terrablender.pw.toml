@@ -1,0 +1,16 @@
+filename = 'TerraBlender-neoforge-1.21.7-6.0.0.2.jar'
+name = 'TerraBlender'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ff0187b7594180ca928d76bf3f0642da4a10df6598e8a22be743ad440dd872938bea2df5dc3e17b29b5978f30cf52b94936ca4f0edbbde56be1cb6a8eee263d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kkmrDlKT/versions/vBy1kI6X/TerraBlender-neoforge-1.21.7-6.0.0.2.jar'
+
+[update.modrinth]
+mod-id = 'kkmrDlKT'
+version = 'vBy1kI6X'

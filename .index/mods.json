@@ -1,0 +1,392 @@
+[
+    {
+        "filename": "advancednetherite-neoforge-2.3.0-1.21.7.jar",
+        "name": "Advanced Netherite",
+        "url": "https://modrinth.com/mod/CFX9ftUJ",
+        "version": "2.3.0"
+    },
+    {
+        "filename": "anvianslib-neoforge-1.21.6-1.4.1.jar",
+        "name": "Anvian's Lib",
+        "url": "https://modrinth.com/mod/PuTjrq4T",
+        "version": "1.4.1"
+    },
+    {
+        "filename": "architectury-17.0.8-neoforge.jar",
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "17.0.8"
+    },
+    {
+        "filename": "bagus_lib-1.21.7-18.0.4.jar",
+        "name": "Bagus Lib",
+        "url": "https://modrinth.com/mod/95nSN4Rd",
+        "version": "1.21.7-18.0.4"
+    },
+    {
+        "filename": "balm-neoforge-1.21.8-21.8.10.jar",
+        "name": "Balm",
+        "url": "https://modrinth.com/mod/MBAkmtvl",
+        "version": "21.8.10"
+    },
+    {
+        "filename": "BarteringStation-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Bartering Station",
+        "url": "https://modrinth.com/mod/EOig9U0j",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "BetterTridents-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Better Tridents",
+        "url": "https://modrinth.com/mod/KNUSlHiU",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "BiomesOPlenty-neoforge-1.21.7-21.7.0.3.jar",
+        "name": "Biomes O' Plenty",
+        "url": "https://modrinth.com/mod/HXF82T3G",
+        "version": "21.7.0.3"
+    },
+    {
+        "filename": "brutalnightmarecci-1.0.0.jar",
+        "name": "BrutalNightmareCCI",
+        "url": "https://modrinth.com/mod/tQO8Q6Lf",
+        "version": "1.0.0"
+    },
+    {
+        "filename": "cloth-config-19.0.147-neoforge.jar",
+        "name": "Cloth Config v19 API",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "19.0.147"
+    },
+    {
+        "filename": "collective-1.21.7-8.4.jar",
+        "name": "Collective",
+        "url": "https://modrinth.com/mod/e0M1UDsY",
+        "version": "8.4"
+    },
+    {
+        "filename": "diversity-neoforge-1.21.6-2.5.3.jar",
+        "name": "Diversity",
+        "url": "https://modrinth.com/mod/31qnTHav",
+        "version": "2.5.3"
+    },
+    {
+        "filename": "durabilityrarity-1.21.5-1.21.10-v1.1.jar",
+        "name": "DurabilityRarity",
+        "url": "https://modrinth.com/mod/ilPrFR9W",
+        "version": "1.21.5-1.21.10-v1.1"
+    },
+    {
+        "filename": "EasyMagic-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Easy Magic",
+        "url": "https://modrinth.com/mod/9hx3AbJM",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "EasyShulkerBoxes-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Easy Shulker Boxes",
+        "url": "https://modrinth.com/mod/gA5euN8S",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "ElectricMace-neoforge-1.8.1.jar",
+        "name": "ElectricMace",
+        "url": "https://modrinth.com/mod/9ksojQLy",
+        "version": "1.8.1"
+    },
+    {
+        "filename": "elevatorid-neoforge-1.21.7-1.14.2.jar",
+        "name": "ElevatorMod",
+        "url": "https://modrinth.com/mod/hi2dSXTu",
+        "version": "1.21.7-1.14.2"
+    },
+    {
+        "filename": "enchantwithmob-1.21.7-25.0.2.jar",
+        "name": "EnchantWithMob",
+        "url": "https://modrinth.com/mod/SwDIbBHh",
+        "version": "1.21.7-25.0.2"
+    },
+    {
+        "filename": "enchanted-vertical-slabs-2.6.2-neoforge-mc1.21.7.jar",
+        "name": "Enchanted Vertical Slabs",
+        "url": "https://modrinth.com/mod/TG1cHkRf",
+        "version": "2.6.2"
+    },
+    {
+        "filename": "EnchantingInfuser-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Enchanting Infuser",
+        "url": "https://modrinth.com/mod/ePv85y52",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "EnderZoology-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Ender Zoology",
+        "url": "https://modrinth.com/mod/CUQhzQjg",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "EternalNether-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Eternal Nether",
+        "url": "https://modrinth.com/mod/s6R4jmL8",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "faewulf_lib-neoforge-1.21.6-1.3.2.jar",
+        "name": "Faewulf's Lib",
+        "url": "https://modrinth.com/mod/q4N9H96q",
+        "version": "1.3.2"
+    },
+    {
+        "filename": "friendsandfoes-neoforge-4.0.15+mc1.21.8.jar",
+        "name": "Friends&Foes",
+        "url": "https://modrinth.com/mod/BOCJKD49",
+        "version": "4.0.15"
+    },
+    {
+        "filename": "flowerymooblooms-neoforge-3.0.2+mc1.21.8.jar",
+        "name": "Friends&Foes - Flowery Mooblooms",
+        "url": "https://modrinth.com/mod/wYtDgIUZ",
+        "version": "3.0.2"
+    },
+    {
+        "filename": "giantspawn-1.21.7-5.3.jar",
+        "name": "Giant Spawn",
+        "url": "https://modrinth.com/mod/iWwn7s9U",
+        "version": "5.3"
+    },
+    {
+        "filename": "GlitchCore-neoforge-1.21.7-21.7.0.0.jar",
+        "name": "GlitchCore",
+        "url": "https://modrinth.com/mod/s3dmwKy5",
+        "version": "21.7.0.0"
+    },
+    {
+        "filename": "gravestone-neoforge-1.21.7-1.0.32.jar",
+        "name": "Gravestone Mod",
+        "url": "https://modrinth.com/mod/RYtXKJPr",
+        "version": "1.21.7-1.0.32"
+    },
+    {
+        "filename": "hunters_return-1.21.7-24.0.3.jar",
+        "name": "Hunters Return",
+        "url": "https://modrinth.com/mod/Yt6gmdxW",
+        "version": "1.21.7-24.0.3"
+    },
+    {
+        "filename": "IllagerInvasion-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Illager Invasion",
+        "url": "https://modrinth.com/mod/jSV9w0J5",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "immersiveores-1.21.7-1.0.0.jar",
+        "name": "ImmersiveOres",
+        "url": "https://modrinth.com/mod/F9Vuwq3S",
+        "version": "1.21.7-1.0.0"
+    },
+    {
+        "filename": "just-hammers-neoforge-21.8.0.jar",
+        "name": "Just Hammers",
+        "url": "https://modrinth.com/mod/edU0NbZZ",
+        "version": "21.8.0"
+    },
+    {
+        "filename": "libraryferret-neoforge-1.21.7-4.0.0.jar",
+        "name": "Library ferret",
+        "url": "https://modrinth.com/mod/DOB2l4oJ",
+        "version": "4.0.0"
+    },
+    {
+        "filename": "LinkedChests-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Linked Chests",
+        "url": "https://modrinth.com/mod/Mr2x2AUf",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "Lunar-neoforge-1.21.8-0.2.5.jar",
+        "name": "Lunar",
+        "url": "https://modrinth.com/mod/PwhlJMsW",
+        "version": "0.2.5"
+    },
+    {
+        "filename": "medieval_buildings-1.21.1-1.1.2-neoforge.jar",
+        "name": "Medieval Buildings",
+        "url": "https://modrinth.com/mod/sc9lpPiU",
+        "version": "oKjLUCOD"
+    },
+    {
+        "filename": "medieval_buildings_end_edition-1.21.X-1.0.5-neoforge.jar",
+        "name": "Medieval Buildings [End Edition]",
+        "url": "https://modrinth.com/mod/bq6nqeOx",
+        "version": "Fcej3nnw"
+    },
+    {
+        "filename": "medieval_buildings_nether_edition-1.21.X-1.0.1-neoforge.jar",
+        "name": "Medieval Buildings [Nether Edition]",
+        "url": "https://modrinth.com/mod/9zKI9xOD",
+        "version": "4bM1zqAo"
+    },
+    {
+        "filename": "MetalBundles-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Metal Bundles",
+        "url": "https://modrinth.com/mod/6pY6oEMg",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "mes-1.4.6-1.21.7.jar",
+        "name": "Moog's End Structures",
+        "url": "https://modrinth.com/mod/r4PuRGfV",
+        "version": "1.4.6-1.21.7"
+    },
+    {
+        "filename": "moogs_structure_lib-1.0.2-1.21.5-1.21.10-neoforge.jar",
+        "name": "Moog's Structure Lib",
+        "url": "https://modrinth.com/mod/1oUDhxuy",
+        "version": "1.0.2-1.21.5-1.21.10"
+    },
+    {
+        "filename": "MoogsNetherStructures-1.21-2.0.0.jar",
+        "name": "MoogsNetherStructures",
+        "url": "https://modrinth.com/mod/nGUXvjTa",
+        "version": "2.0.0"
+    },
+    {
+        "filename": "morevillagers-re-1.21.5-x-neoforge-5.1.3.jar",
+        "name": "More Villagers: Re-employed",
+        "url": "https://modrinth.com/mod/1fOqTPRO",
+        "version": "5.1.3"
+    },
+    {
+        "filename": "movingelevators-1.4.11-neoforge-mc1.21.6.jar",
+        "name": "Moving Elevators",
+        "url": "https://modrinth.com/mod/9KZOe6HD",
+        "version": "1.4.11"
+    },
+    {
+        "filename": "MutantMonsters-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Mutant Monsters",
+        "url": "https://modrinth.com/mod/derP0ten",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "MutantsZombies-1.3.1-NeoForge-mc1.21.6.jar",
+        "name": "Mutants and Zombies",
+        "url": "https://modrinth.com/mod/W0C544GP",
+        "version": "1.3.1-NeoForge-mc1.21.6"
+    },
+    {
+        "filename": "naturallychargedcreepers-1.21.7-3.6.jar",
+        "name": "Naturally Charged Creepers",
+        "url": "https://modrinth.com/mod/j5LquiGA",
+        "version": "3.6"
+    },
+    {
+        "filename": "NetherChested-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Nether Chested",
+        "url": "https://modrinth.com/mod/bHJp2GRg",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "PuzzlesLib-v21.7.1-1.21.7-NeoForge.jar",
+        "name": "Puzzles Lib",
+        "url": "https://modrinth.com/mod/QAGBst4M",
+        "version": "21.7.1"
+    },
+    {
+        "filename": "repurposed_structures-7.5.21+1.21.7-neoforge.jar",
+        "name": "Repurposed Structures",
+        "url": "https://modrinth.com/mod/QDNS5oAT",
+        "version": "7.5.21+1.21.7-neoforge"
+    },
+    {
+        "filename": "ResourcefulLib-neoforge-1.21.6-3.6.0.jar",
+        "name": "Resourceful Lib",
+        "url": "https://modrinth.com/mod/G1hIVOrD",
+        "version": "3.6.0"
+    },
+    {
+        "filename": "RoughlyEnoughItems-20.0.811-neoforge.jar",
+        "name": "Roughly Enough Items (REI)",
+        "url": "https://modrinth.com/mod/nfn13YXA",
+        "version": "20.0.811"
+    },
+    {
+        "filename": "SkeletonAIFix-v21.7.1-1.21.7-NeoForge.jar",
+        "name": "Skeleton AI Fix",
+        "url": "https://modrinth.com/mod/jn24bUJo",
+        "version": "21.7.1"
+    },
+    {
+        "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+        "name": "SuperMartijn642's Config Library",
+        "url": "https://modrinth.com/mod/LN9BxssP",
+        "version": "1.1.8"
+    },
+    {
+        "filename": "supermartijn642corelib-1.1.18d-neoforge-mc1.21.7.jar",
+        "name": "SuperMartijn642's Core Lib",
+        "url": "https://modrinth.com/mod/rOUBggPv",
+        "version": "1.1.18+d"
+    },
+    {
+        "filename": "suszombification-1.21.7-1.3.2.jar",
+        "name": "Suspicious Zombification",
+        "url": "https://modrinth.com/mod/HE8pl71X",
+        "version": "1.3.2"
+    },
+    {
+        "filename": "TerraBlender-neoforge-1.21.7-6.0.0.2.jar",
+        "name": "TerraBlender",
+        "url": "https://modrinth.com/mod/kkmrDlKT",
+        "version": "6.0.0.2"
+    },
+    {
+        "filename": "TradingPost-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Trading Post",
+        "url": "https://modrinth.com/mod/8pcjMDgj",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "trashslot-neoforge-1.21.7-21.7.1.jar",
+        "name": "TrashSlot",
+        "url": "https://modrinth.com/mod/vRYk0bv7",
+        "version": "21.7.1"
+    },
+    {
+        "filename": "treeharvester-1.21.7-9.2.jar",
+        "name": "Tree Harvester",
+        "url": "https://modrinth.com/mod/abooMhox",
+        "version": "9.2"
+    },
+    {
+        "filename": "UniversalEnchants-v21.7.0-1.21.7-NeoForge.jar",
+        "name": "Universal Enchants",
+        "url": "https://modrinth.com/mod/DT56YDir",
+        "version": "21.7.0"
+    },
+    {
+        "filename": "variantsandventures-neoforge-1.0.19+mc1.21.8.jar",
+        "name": "Variants&Ventures",
+        "url": "https://modrinth.com/mod/lNDRiXkY",
+        "version": "1.0.19"
+    },
+    {
+        "filename": "visibletraders-0.1.1.jar",
+        "name": "Visible Traders",
+        "url": "https://modrinth.com/mod/AhllI99f",
+        "version": "0.1.1"
+    },
+    {
+        "filename": "waystones-neoforge-1.21.7-21.7.2.jar",
+        "name": "Waystones",
+        "url": "https://modrinth.com/mod/LOpKHB2A",
+        "version": "21.7.2"
+    },
+    {
+        "filename": "yet_another_config_lib_v3-3.7.1+1.21.6-neoforge.jar",
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/1eAoo2KR",
+        "version": "3.7.1+1.21.6-neoforge"
+    }
+]

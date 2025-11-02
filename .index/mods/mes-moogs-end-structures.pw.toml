@@ -1,0 +1,16 @@
+filename = 'mes-1.4.6-1.21.7.jar'
+name = "MES - Moog's End Structures"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6320895c53c67347085673a789e23e1fa94ac2c10f64c0b0a3c6ea8c3d62b4c362574d44aa0bc4bfbff8751ee29b82a4c8f687112e1f512ae800a30f54fbeabd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r4PuRGfV/versions/HVYi41jL/mes-1.4.6-1.21.7.jar'
+
+[update.modrinth]
+mod-id = 'r4PuRGfV'
+version = 'HVYi41jL'

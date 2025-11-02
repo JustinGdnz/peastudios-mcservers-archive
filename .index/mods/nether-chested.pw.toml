@@ -1,0 +1,16 @@
+filename = 'NetherChested-v21.7.0-1.21.7-NeoForge.jar'
+name = 'Nether Chested'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '333e3738b190875ac8d1447226077c7b3d3a6e06b35b08b42bc50b1ce36a4d86d819279f515556061bf7e77c8aba83820b78db5d8ed99c74ace4d518a8112702'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bHJp2GRg/versions/826w2IC6/NetherChested-v21.7.0-1.21.7-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'bHJp2GRg'
+version = '826w2IC6'

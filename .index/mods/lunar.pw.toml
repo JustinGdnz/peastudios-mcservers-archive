@@ -1,0 +1,16 @@
+filename = 'Lunar-neoforge-1.21.8-0.2.5.jar'
+name = 'Lunar'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '9239ca139e91fc4a3768462c1648dd8dd8e4fab680b7fabfe7f09585982328c75c163ce28ad69e84c98a368b5adeab4601a9daf7be0469a76da36fc0ad1e9048'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PwhlJMsW/versions/78UHpXpV/Lunar-neoforge-1.21.8-0.2.5.jar'
+
+[update.modrinth]
+mod-id = 'PwhlJMsW'
+version = '78UHpXpV'
