@@ -102,12 +102,6 @@
         "version": "2.5+mod1.21.4-1.21.7"
     },
     {
-        "filename": "enchants-plus-1.6.jar",
-        "name": "Enchants Plus",
-        "url": "https://modrinth.com/mod/N72bKhby",
-        "version": "1.6"
-    },
-    {
         "filename": "Explorify v1.6.4 f15-88.mod.jar",
         "name": "Explorify",
         "url": "https://modrinth.com/mod/HSfsxuTo",
@@ -156,12 +150,6 @@
         "version": "1.2.4"
     },
     {
-        "filename": "[1.21-1.21.8 EX] Horde Nights v1.3.10.jar",
-        "name": "Horde Nights",
-        "url": "https://modrinth.com/mod/jGO2ac1X",
-        "version": "1.3.10"
-    },
-    {
         "filename": "hostile-mobs-improve-over-time-1.11.3.jar",
         "name": "Hostile Mobs Improve Over Time",
         "url": "https://modrinth.com/mod/ku4JD9TH",
@@ -204,12 +192,6 @@
         "version": "1.1.2"
     },
     {
-        "filename": "mo-variants-7.6.10J.jar",
-        "name": "Mo-Variants",
-        "url": "https://modrinth.com/mod/alk9mtOr",
-        "version": "7.6.10J"
-    },
-    {
         "filename": "mob-captains-v3.4.0.jar",
         "name": "Mob Captains",
         "url": "https://modrinth.com/mod/7tKn1fLd",
@@ -244,12 +226,6 @@
         "name": "Piglin Conservatory v2.0",
         "url": "https://modrinth.com/mod/5I2ZMGTs",
         "version": "2.3"
-    },
-    {
-        "filename": "repurposed-trims-1.0.5.jar",
-        "name": "Repurposed Trims",
-        "url": "https://modrinth.com/mod/fosoOC4Y",
-        "version": "1.0.5"
     },
     {
         "filename": "revault-1.3.jar",
