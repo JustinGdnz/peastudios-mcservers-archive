@@ -66,6 +66,12 @@
         "version": "8.4"
     },
     {
+        "filename": "configured-neoforge-1.21.7-2.7.0.jar",
+        "name": "Configured",
+        "url": "https://www.curseforge.com/projects/457570",
+        "version": "2.7.0"
+    },
+    {
         "filename": "DiscCord-1.21.7-1.6.0.jar",
         "name": "DiscCord",
         "url": "https://modrinth.com/mod/3HrCAKw5",
@@ -192,6 +198,30 @@
         "version": "1.21.7-1.0.0"
     },
     {
+        "filename": "justenoughbreeding-neoforge-1.21.7-1.21.8-1.6.2.jar",
+        "name": "Just Enough Breeding",
+        "url": "https://modrinth.com/mod/9Pk89J3g",
+        "version": "1.6.2"
+    },
+    {
+        "filename": "jei-1.21.7-neoforge-23.1.0.8.jar",
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ",
+        "version": "23.1.0.8"
+    },
+    {
+        "filename": "JustEnoughProfessions-neoforge-1.21.7-7.0.0.jar",
+        "name": "Just Enough Professions (JEP)",
+        "url": "https://modrinth.com/mod/kB56GtWA",
+        "version": "7.0.0"
+    },
+    {
+        "filename": "JustEnoughResources-NeoForge-1.21.7-1.8.1.22.jar",
+        "name": "Just Enough Resources",
+        "url": "https://modrinth.com/mod/uEfK2CXF",
+        "version": "1.8.1.22"
+    },
+    {
         "filename": "just-hammers-neoforge-21.8.0.jar",
         "name": "Just Hammers",
         "url": "https://modrinth.com/mod/edU0NbZZ",
@@ -306,12 +336,6 @@
         "version": "3.6.0"
     },
     {
-        "filename": "RoughlyEnoughItems-20.0.811-neoforge.jar",
-        "name": "Roughly Enough Items (REI)",
-        "url": "https://modrinth.com/mod/nfn13YXA",
-        "version": "20.0.811"
-    },
-    {
         "filename": "SkeletonAIFix-v21.7.1-1.21.7-NeoForge.jar",
         "name": "Skeleton AI Fix",
         "url": "https://modrinth.com/mod/jn24bUJo",
@@ -334,6 +358,12 @@
         "name": "Suspicious Zombification",
         "url": "https://modrinth.com/mod/HE8pl71X",
         "version": "1.3.2"
+    },
+    {
+        "filename": "tagtranslations-neoforge-1.21.5-to-1.21.10.jar",
+        "name": "Tag Translations",
+        "url": "https://modrinth.com/mod/dr1m8Rjk",
+        "version": "1.21.5-to-1.21.10"
     },
     {
         "filename": "TerraBlender-neoforge-1.21.7-6.0.0.2.jar",

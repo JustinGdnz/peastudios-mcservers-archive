@@ -1,0 +1,16 @@
+filename = 'JustEnoughResources-NeoForge-1.21.7-1.8.1.22.jar'
+name = 'Just Enough Resources (JER)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.7' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '530841c5fe47bf0f49aad8c02965ea65d26e7bcf4d3fceab2c5201889a6306f67a19f27f5fda86ea9259bf1bcaafa2ed4b18d02e303fd695e4fb680526dcb6dc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uEfK2CXF/versions/fH4GgWlj/JustEnoughResources-NeoForge-1.21.7-1.8.1.22.jar'
+
+[update.modrinth]
+mod-id = 'uEfK2CXF'
+version = 'fH4GgWlj'
